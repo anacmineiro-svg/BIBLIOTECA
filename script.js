@@ -21,3 +21,4 @@ box.textContent = messages[current];
 
 current = (current + 1) % messages.length;
 });
+
